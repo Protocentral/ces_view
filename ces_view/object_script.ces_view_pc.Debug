@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\ces_view.o
+./debug\cesmainwindow.o
+./debug\data_plot.o
+./debug\data_plot_fft.o
+./debug\serialcontrol.o
+./debug\moc_mainwindow.o
+./debug\moc_ces_view.o
+./debug\moc_data_plot.o
+./debug\moc_serialcontrol.o
+);

@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\ces_view.o
+./release\cesmainwindow.o
+./release\data_plot.o
+./release\data_plot_fft.o
+./release\serialcontrol.o
+./release\moc_mainwindow.o
+./release\moc_ces_view.o
+./release\moc_data_plot.o
+./release\moc_serialcontrol.o
+);
